@@ -1,0 +1,264 @@
+@media(max-width:767px){
+ .btn-success {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    margin: 0px;
+    padding: 0px;
+    font-size: 7px;
+}
+    .product_name {
+    margin: 2px 0;
+    font-size: 12px;
+}
+    .star-rating .fa-star {
+    color: black;
+    font-size: 4px;
+    margin: 0px;
+    padding: 0px;
+}
+    
+
+.fa {
+    font-size: 4px;
+}
+    .dolor {
+    font-weight: bold;
+    font-size: 9px;
+}
+    .dolor {
+    font-weight: bold;
+    font-size: 9px;
+    padding: 0px;
+    margin: 0px;
+}
+    h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 13px;
+    margin-bottom: 11px;
+    font-size: 18px;
+}
+    p {
+    margin: 0 0 10px;
+    font-size: 8px;
+}
+    .star-rating {
+    line-height: 9px;
+    font-size: 7px;
+}
+    .product_name {
+    margin: 2px 0;
+    font-size: 9px;
+}
+    .product {
+    border: 1px solid #CCCCCC;
+    padding: 0;
+    padding-bottom: 2px;
+}
+    .call_heading {
+    color: white;
+    font-size: 11px;
+}
+  .subscribe {
+    margin: 8px 0px;
+    padding: 3px;
+    background: white;
+    font-size: 10px;
+}
+    p {
+    margin: 0 0 0px;
+    font-size: 8px;
+}
+    .list-group-item:first-child {
+    border-top-left-radius: -1px;
+    border-top-right-radius: 4px;
+    margin: 0px;
+    padding: 0px;
+}
+    h4, .h4 {
+    font-size: 9px;
+}
+    .feature {
+    margin: 7px 15px;
+}
+    a {
+    text-decoration: none;
+    font-size: 7px;
+}
+    .list-group-item {
+    padding: 0px;
+}
+    h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 13px;
+    margin-bottom: 11px;
+    font-size: 9px;
+    margin: 0px;
+}
+    .btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    margin: 0px;
+    padding: 0px;
+    font-size: 7px;
+}
+    .subscribe {
+    margin: 8px 0px;
+    padding: 1px 4px;
+    background: white;
+    font-size: 10px;
+}
+    .call_heading {
+    color: white;
+    font-size: 11px;
+    margin-top: 6px;
+}
+    .special_text {
+    text-align: left;
+    margin-left: 0.5px;
+    padding-left: 0px;
+}
+    p {
+    margin: 0 0 0px;
+    font-size: 6px;
+}
+    .btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    margin: 0px;
+    padding: 0px;
+    font-size: 6.5px;
+}
+    .special {
+    border: 1px solid #CCCCCC;
+    padding: 0px;
+    margin: 0px;
+    padding-bottom: 3px;
+}
+    h5, .h5 {
+    font-size: 8px;
+    margin: 0px;
+    /* padding: 0px; */
+}
+    .col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+    
+
+.navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 20px;
+}
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 1px 15px;
+    font-size: 14px;
+    margin: 0px;
+    line-height: 4px;
+}
+    .navbar-nav > li > a {
+    padding-top: 9px;
+    padding-bottom: 9px;
+    line-height: 5px;
+}
+    .similar {
+    margin: 11px 0px -8px -4px;
+    width: 42%;
+}
+    .similar_text {
+    margin: 12px 0px 2px 4px;
+    font-size: 8px;
+}
+    .dolor {
+    font-weight: bold;
+    font-size: 7px;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 3px;
+}
+ .similar {
+    margin-top: 9px;
+}
+    .similar_products{
+        margin-left: 4px;
+    }
+    .similar_image{
+        margin: 0px;
+    }
+    .similar_products {
+    margin-left: 4px;
+    margin-top: 6px;
+}
+    .container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
+    margin-right: -3px;
+    margin-left: -18px;
+}
+}
+@media(min-width:768px) and (max-width:991px){
+    h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 7px;
+    margin-bottom: 6px;
+    line-height: 23px;
+}
+    .subscribe {
+    margin-top: 0px;
+    padding: 5px;
+    margin-bottom: 12px;
+    background: white;
+}
+    .special {
+    border: 1px solid #CCCCCC;
+    padding: 0px;
+    margin: 0px;
+    padding-bottom: 13px;
+}
+    h4, .h4, h5, .h5, h6, .h6 {
+    margin-top: 10px;
+    margin-bottom: -4px;
+}
+    .similar {
+    margin: 11px 0px 0px 5px;
+}
+    .similar_text {
+    margin: 8px 0px 4px 0px;
+}
+    .btn {
+    display: inline-block;
+    padding: 2px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+    .special_text {
+    font-size: 13px;
+}
+    
+}
+
+@media(min-width:992px) and (max-width:1199px){
+	
+}
+@media(min-width:1200px){
+	.btn-success {
+    margin: 8px;
+}
+}

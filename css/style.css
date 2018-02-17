@@ -1,0 +1,108 @@
+*{
+ margin:0;
+ padding: 0;
+}
+.menubar{
+    width: 100%;
+}
+.navbar-default {
+    background-color: #493268;
+    border-color: #493268;
+}
+.navbar-default .navbar-brand {
+    color: #fcf8e3;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a:hover{
+    color:green;
+}
+h1{
+    margin: 0px;
+    top: 10;
+}
+.star-rating {
+  line-height:32px;
+  font-size:1.25em;
+}
+
+.star-rating .fa-star{color: black;}
+.feature{
+    margin: 15px;
+}
+.product{
+    border: 1px solid #CCCCCC;
+    padding: 0;
+    padding-bottom: 10px;
+}
+.product_name{
+   margin: 8px 0; 
+}
+.dolor{
+    font-weight: bold;
+}
+button{
+    margin-bottom: 20px;
+}
+.second_pd_list{
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.call{
+    background-color: #493268;
+    min-height: 50px;
+    padding: 0px;
+    margin: 0px;
+}
+.call_heading{
+    color: white;
+}
+.call_paragraph{
+    color: white;
+}
+.subscribe{
+    margin-top: 40px;
+    padding: 10px;
+    background: white;
+}
+.special{
+    border: 1px solid #CCCCCC;
+    padding: 0px;
+    margin: 0px;
+    padding-bottom: 30px;
+}
+.similar{
+  margin: 15px 0px;
+}
+.similar_img{
+   margin-left: 8px;
+    padding: 0px;
+}
+.similar_text{
+  margin: 10px 0px 5px 0px;
+}
+h2, .h2 {
+    font-size: 24px;
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 13px;
+    margin-bottom: 11px;
+}
+.glyphicon-star {
+    color: #235c8e; 
+}
+a{
+    text-decoration: none;
+}
+.similar_text {
+    margin: 15px 0px 18px 0px;
+}
+.similar {
+    margin: 15px 0px 15px 9px;
+}
+.special{
+        text-align: center;
+    }
+
